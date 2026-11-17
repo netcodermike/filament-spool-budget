@@ -1,0 +1,12 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "filamentGrams": 56.549,
+    "budgetedGrams": 62.204,
+    "remainingGrams": 37.796,
+    "fits": true
+  }
+}

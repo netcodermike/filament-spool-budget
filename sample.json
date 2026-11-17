@@ -1,0 +1,16 @@
+{
+  "diameterMm": 2,
+  "densityGramsPerCm3": 1.2,
+  "availableGrams": 100,
+  "wasteFraction": 0.1,
+  "jobs": [
+    [
+      "Knob",
+      10
+    ],
+    [
+      "Spacer",
+      5
+    ]
+  ]
+}
